@@ -9,6 +9,12 @@
   color: white;
 }
 
+.container {
+  border: 3px solid #348802;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
 .star {
   cursor: pointer;
 }
